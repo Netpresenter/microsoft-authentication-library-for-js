@@ -1,8 +1,19 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Tue, 28 May 2024 21:37:23 GMT and should not be manually modified.
+This log was last generated on Mon, 03 Jun 2024 22:58:27 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 3.16.0
+
+Mon, 03 Jun 2024 22:58:27 GMT
+
+### Minor changes
+
+- Instrument pre-redirect flow #7134 (kshabelko@microsoft.com)
+- Bump @azure/msal-common to v14.11.0
+- Bump eslint-config-msal to v0.0.0
+- Bump msal-test-utils to v0.0.1
 
 ## 3.15.0
 
