@@ -261,5 +261,4 @@ coverage/
 node_modules/
 typings/
 lib/
-dist/
 ref/
