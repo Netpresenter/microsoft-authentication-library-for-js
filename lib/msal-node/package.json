@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
-  "name": "@azure/msal-node",
+  "name": "@jeroenonline/msal-node",
   "version": "2.9.1",
   "author": {
     "name": "Microsoft",
